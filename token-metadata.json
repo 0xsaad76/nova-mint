@@ -1,0 +1,16 @@
+{
+  "name": "Nova",
+  "symbol": "NVA",
+  "description": "Freelancer | Coder | Blockchain Enthusiast",
+  "image": "https://avatars.githubusercontent.com/u/115649011?v=4",
+  "attributes": [
+    {
+      "trait_type": "Origin",
+      "value": "GitHub Profile"
+    },
+    {
+      "trait_type": "Creator ID",
+      "value": "115649011"
+    }
+  ]
+}
