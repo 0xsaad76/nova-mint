@@ -35,8 +35,8 @@ async function createOrUpdateMetadata() {
   console.log("Metadata PDA:", metadataPda[0].toString());
 
   const metadataData = {
-    name: "Nova Token",
-    symbol: "NOVA",
+    name: "Nova",
+    symbol: "NVA",
     uri: "https://red-rainy-koi-23.mypinata.cloud/ipfs/bafkreiat3atebtv7budwci77eul3hjjikptqxrh7z3tzqjzllrfhdiyvai",
     sellerFeeBasisPoints: 500,
     tokenStandard: TokenStandard.Fungible,
